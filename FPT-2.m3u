@@ -26,7 +26,8 @@ https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/192bbb4ecd48
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/a65cf7ba93664eb083d95152fe717270/live.m3u8
 #EXTINF:-1,Vevo 90s
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/51f1a0da9da049098a8cec541bddfae5/live.m3u8
-
+#EXTINF:-1,California Music
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 #EXTINF:-1,Delux Music
 http://s846397078.mialojamiento.es/lr8w/mp.php/https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/.m3u8 
 #EXTINF:-1,MTV
@@ -78,6 +79,8 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:-1,NatgeoWild- Asia
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1,Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,Outdoor Channel HD
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist.m3u8
 #EXTINF:-1,  FOX HD
@@ -102,10 +105,24 @@ https://rakuten-family-1-gb.samsung.wurl.tv/3000.m3u8
 https://rakuten-spotlight-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1, Rakuten viki
 https://newidco-rakutenviki-1-us.roku.wurl.tv/4300.m3u8
+#EXTINF:-1, CRACKLE
+https://crackle-xumo.amagi.tv/playlistX432p.m3u8
+#EXTINF:-1, KUK Drama
+https://cdnuk001.broadcastcdn.net/KUK-DRAMA/index.m3u8
 #EXTINF:-1, Roku Pac12
 https://pac12-roku-us.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1, BEIN Sport Etxtra
 https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
+#EXTINF:-1, F1
+https://stream2.grandma.fit/espn2.m3u8
+#EXTINF:-1, MMA
+https://alchimie-mmatv-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1, Wipeout Extra
+https://endemol-wipeoutxtra-1-us.samsung.wurl.tv/2000.m3u8
+#EXTINF:-1, Sky 1 Extreme
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1, Sky 2 Extreme
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1, UK: Sky Sports Football HD
 http://cdn.ayproviders.xyz:80/2R4sVT3Sur/nWxPySNFNr/97203
 #EXTINF:-1, Redbull TV
@@ -163,11 +180,11 @@ http://cdn.ayproviders.xyz:80/2R4sVT3Sur/nWxPySNFNr/97122
 #EXTINF:-1 tvg-ID="" tvg-name="UK: ITV 1" tvg-logo="" group-title="United Kingdom",UK: ITV 1
 http://cdn.ayproviders.xyz:80/2R4sVT3Sur/nWxPySNFNr/97144
 #EXTINF:-1 tvg-ID="" tvg-name="UK: ITV 2" tvg-logo="" group-title="United Kingdom",UK: ITV 2
-http://cdn.ayproviders.xyz:80/2R4sVT3Sur/nWxPySNFNr/97145
+https://cdnuk001.broadcastcdn.net/KUK-ITV2/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="UK: ITV 3" tvg-logo="" group-title="United Kingdom",UK: ITV 3
-http://cdn.ayproviders.xyz:80/2R4sVT3Sur/nWxPySNFNr/97146
+https://cdnuk001.broadcastcdn.net/KUK-ITV3/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="UK: ITV 4" tvg-logo="" group-title="United Kingdom",UK: ITV 4
-http://cdn.ayproviders.xyz:80/2R4sVT3Sur/nWxPySNFNr/97147
+https://cdnuk001.broadcastcdn.net/KUK-ITV4/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="UK: NAT GEO WILD" tvg-logo="" group-title="United Kingdom",UK: NAT GEO WILD
 http://cdn.ayproviders.xyz:80/2R4sVT3Sur/nWxPySNFNr/97197
 #EXTINF:-1 tvg-ID="" tvg-name="USA: Nat Geo Wild HD" tvg-logo="" group-title="USA & Canada",USA: Nat Geo Wild HD
