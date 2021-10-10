@@ -198,7 +198,8 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1,KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-
+#EXTINF:-1,E-Channel (Phim)
+http://cdn4.freedavis.cf/live/Mg1KuMKXmUIvgTaVeNzE-A/1633863694/vtvcab5.m3u8
 #EXTINF:-1,VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1,VTV2 HD
