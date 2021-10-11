@@ -149,6 +149,22 @@ http://cdn.ayproviders.xyz:80/2R4sVT3Sur/nWxPySNFNr/97232
 http://cdn.ayproviders.xyz:80/2R4sVT3Sur/nWxPySNFNr/97181
 #EXTINF:-1 tvg-ID="" tvg-name="USA: Disney Channel HD" tvg-logo="" group-title="USA & Canada",USA: Disney Channel HD
 http://cdn.ayproviders.xyz:80/2R4sVT3Sur/nWxPySNFNr/138899
+
+#EXTINF:-1, Discovery_Channel
+https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,Discovery Asia HD
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,Animal Planet HD
+https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,Travel & Living HD
+https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,YouTV 
+https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,MTV HD
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,CNBC 
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1,CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8 
 #EXTINF:-1,CNN International
