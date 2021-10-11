@@ -153,14 +153,16 @@ http://cdn.ayproviders.xyz:80/2R4sVT3Sur/nWxPySNFNr/138899
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8 
 #EXTINF:-1,CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, CNN HD
+https://livecdn.fptplay.net/sdb/cnn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,MSNBC
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1,BBC Earth HD
-https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1,BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1,BBC News
-http://cdn.ayproviders.xyz:80/2R4sVT3Sur/nWxPySNFNr/97118
+https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="UK: BBC 2 HD" tvg-logo="" group-title="United Kingdom",UK: BBC 2 HD
 http://cdn.ayproviders.xyz:80/2R4sVT3Sur/nWxPySNFNr/97119
 #EXTINF:-1 tvg-ID="" tvg-name="CA: BBC EARTH HD" tvg-logo="" group-title="USA & Canada",CA: BBC EARTH HD
