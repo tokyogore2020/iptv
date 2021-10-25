@@ -312,8 +312,10 @@ http://cunbabyshop.xyz/htv9hd/mpegts
 http://cunbabyshop.xyz/htvtt/mpegts
 #EXTINF:-1 group-title="TLNQ Channel TV", TR:BEIN SPORTS HABER HD
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:0,TLNQ Channel TV 
+#EXTINF:-1 group-title="TLNQ Channel TV",Sport
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="TLNQ Channel TV",Dubai sport
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:0,VTV1 Test 
 https://kpluslive.akamaized.net/live/prod_vtv1_hd_fps/prod_vtv1_hd_fps.isml/prod_vtv1_hd_fps.mpd
 
