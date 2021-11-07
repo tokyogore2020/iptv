@@ -112,6 +112,19 @@ https://crackle-xumo.amagi.tv/playlistX432p.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-DRAMA/index.m3u8
 #EXTINF:-1,FILM HD
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+#EXTM3U url-tvg="https://iptv-pro.github.io/epg/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://iptv-pro.github.io/logo/HBO.png" group-title="",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://iptv-pro.github.io/logo/HBO.png" group-title="",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://iptv-pro.github.io/logo/HBO%20Signature.png" group-title="",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://iptv-pro.github.io/logo/HBO%20Hits.png" group-title="",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://iptv-pro.github.io/logo/HBO%20Family.png" group-title="",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://iptv-pro.github.io/logo/CINEMAX.png" group-title="",CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1,HBO Family East FHD
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1,HBO Hits FHD
