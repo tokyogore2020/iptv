@@ -550,6 +550,19 @@ https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="france24" group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_france-24_151539541517.png",France24 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
+#EXTM3U url-tvg="https://iptv-pro.github.io/epg/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://iptv-pro.github.io/logo/HBO.png" group-title="",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://iptv-pro.github.io/logo/HBO.png" group-title="",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://iptv-pro.github.io/logo/HBO%20Signature.png" group-title="",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://iptv-pro.github.io/logo/HBO%20Hits.png" group-title="",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://iptv-pro.github.io/logo/HBO%20Family.png" group-title="",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://iptv-pro.github.io/logo/CINEMAX.png" group-title="",CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="hbo" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png",HBO 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
