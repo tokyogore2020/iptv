@@ -538,6 +538,8 @@ https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3
 #EXTINF:-1 tvg-id="fashiontvhd" group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_146580821688.png",Fashion TV 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="fashiontv midnight haute" group-title="Quốc tế" 
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/.m3u8
 #EXTINF:-1 tvg-id="bloomberghd" group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png",Bloomberg 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://livecdn.fptplay.net/sdb/bloomberg_hls.smil/chunklist_b2500000.m3u8
