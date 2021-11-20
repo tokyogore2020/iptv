@@ -590,9 +590,9 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWA
 #EXTINF:-1 tvg-id="drfit" group-title="Quốc tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068777998.png",DR Fit 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV" 
 https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=https://sctvonline.vn/
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV1
+#EXTINF:-1 group-title="Quốc tế", ESPN 2
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+https://ent.gcdn.co/S2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png",Redbull TV 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
