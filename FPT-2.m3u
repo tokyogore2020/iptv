@@ -162,6 +162,8 @@ http://cdn.ayproviders.xyz:80/2R4sVT3Sur/nWxPySNFNr/97203
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1,Fox Sport News Live TV
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
+#EXTINF:-1,Setanta sport - Live
+https://srv05.varcdn1.ru/setanta2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Roku Hallmark
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1,AXN HD
