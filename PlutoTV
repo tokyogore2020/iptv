@@ -125,6 +125,39 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e7581
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 tvg-id="54ff7ba69222cb1c2624c584" tvg-chno="224" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" group-title="USA;News + Opinion",Bloomberg TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,CNN INTERNATIONAL
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/27262.ts?
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+http://xgtv.club:8080/k3restream/k3restream/9000.ts?
+#EXTINF:0,BBC News FHD UK
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/24775?
+#EXTINF:0,Disney Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16242.ts?
+#EXTINF:0,MSNBC (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16156.ts?
+#EXTINF:0,HBO 2 HD US
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/8262?
+#EXTINF:0,HBO COMEDY
+http://smartmedia.watch:2086/liam/1234/64553?
+#EXTINF:0,HBO Comedy
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4777.ts?
+#EXTINF:0,HBO Family
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4779.ts?
+#EXTINF:0,HBO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4778.ts?
+#EXTINF:0,HBO Signature
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4781.ts?
+#EXTINF:0,HBO Signature HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7747?
+#EXTINF:0,CineMax 5 StarMax US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/507?
+#EXTINF:0,Cinemax 5 Star Max
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63177.ts?
+#EXTINF:0,Cinemax Movie Max
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24260.ts?
+#EXTINF:0,STARZ COMEDY HD
+http://xgtv.club:8080/k3restream/k3restream/9064.ts?
+
 #EXTINF:-1 tvg-id="5812afe1d0f0b8d55dde67fa" tvg-chno="226" tvg-logo="https://images.pluto.tv/channels/5812afe1d0f0b8d55dde67fa/colorLogoPNG.png" group-title="USA;News + Opinion",Cheddar News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="56283c8769ba54637dea0464" tvg-chno="228" tvg-logo="https://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" group-title="USA;News + Opinion",CNET
