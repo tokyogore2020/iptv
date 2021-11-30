@@ -48,6 +48,40 @@ https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUzqKAg.png" group-title="",CNN International (EU)
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:0,CNN INTERNATIONAL
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/27262.ts?
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+http://xgtv.club:8080/k3restream/k3restream/9000.ts?
+#EXTINF:0,BBC News FHD UK
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/24775?
+#EXTINF:0,Disney Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16242.ts?
+#EXTINF:0,MSNBC (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16156.ts?
+#EXTINF:0,HBO 2 HD US
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/8262?
+#EXTINF:0,HBO COMEDY
+http://smartmedia.watch:2086/liam/1234/64553?
+#EXTINF:0,HBO Comedy
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4777.ts?
+#EXTINF:0,HBO Family
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4779.ts?
+#EXTINF:0,HBO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4778.ts?
+#EXTINF:0,HBO Signature
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4781.ts?
+#EXTINF:0,HBO Signature HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7747?
+#EXTINF:0,CineMax 5 StarMax US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/507?
+#EXTINF:0,Cinemax 5 Star Max
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63177.ts?
+#EXTINF:0,Cinemax Movie Max
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24260.ts?
+#EXTINF:0,STARZ COMEDY HD
+http://xgtv.club:8080/k3restream/k3restream/9064.ts?
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rySAnH.jpg" group-title="",Comedy Dynamics
 https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
 
