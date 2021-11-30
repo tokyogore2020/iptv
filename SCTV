@@ -598,3 +598,36 @@ https://ent.gcdn.co/S2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png",Redbull TV 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV"
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0,CNN INTERNATIONAL
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/27262.ts?
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+http://xgtv.club:8080/k3restream/k3restream/9000.ts?
+#EXTINF:0,BBC News FHD UK
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/24775?
+#EXTINF:0,Disney Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16242.ts?
+#EXTINF:0,MSNBC (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16156.ts?
+#EXTINF:0,HBO 2 HD US
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/8262?
+#EXTINF:0,HBO COMEDY
+http://smartmedia.watch:2086/liam/1234/64553?
+#EXTINF:0,HBO Comedy
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4777.ts?
+#EXTINF:0,HBO Family
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4779.ts?
+#EXTINF:0,HBO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4778.ts?
+#EXTINF:0,HBO Signature
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4781.ts?
+#EXTINF:0,HBO Signature HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7747?
+#EXTINF:0,CineMax 5 StarMax US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/507?
+#EXTINF:0,Cinemax 5 Star Max
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63177.ts?
+#EXTINF:0,Cinemax Movie Max
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24260.ts?
+#EXTINF:0,STARZ COMEDY HD
+http://xgtv.club:8080/k3restream/k3restream/9064.ts?
+
